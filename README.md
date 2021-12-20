@@ -1,5 +1,5 @@
- <h1 align="center"> Oi, me chamo Tatiana</h1>
- <h2 align="center"> Atualmente estudo desenvolvimento Web na Trybe.</h2>
+ ## Oi, me chamo Tatiana
+### Atualmente estudo desenvolvimento Web na Trybe.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@
 --> 
 
 
-<div>
+<div align="center">
   <a href="https://github.com/biizerrah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biizerrah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <div>
