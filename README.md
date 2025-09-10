@@ -11,7 +11,7 @@ Sempre fui a "tech girl" da família, com uma paixão por tecnologia que me move
 
  - 🌱 Dedicada a aprimorar minhas habilidades em: Machine Learning, Estatística e as bibliotecas Pandas, Matplotlib e Scikit-Learn.
 
- - 💬 Vamos conversar sobre: Música, o futuro da tecnologia ou a vida com gatos.
+ - 💬 Amo conversar sobre: Música, o futuro da tecnologia ou a vida com gatos.
 
 - 🔗 Conecte-se comigo: <a href="https://www.linkedin.com/in/tati-bezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
